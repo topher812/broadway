@@ -17,3 +17,19 @@ html {
 ul {
   list-style: none;
 }
+.header2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+.header3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+.header4 {
+  font-size: 14px;
+}
+.header5 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
